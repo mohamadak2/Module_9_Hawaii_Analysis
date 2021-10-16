@@ -12,11 +12,11 @@ Then Provide some basic information about the month such as:
 
 We were able to provide this analysis for 2 months.
 
-June Month:
+####**June Month:**
 
 ![image](https://user-images.githubusercontent.com/47649575/137596714-7f6a8378-040e-4560-9d6d-2c96ccfacb49.png)
 
-December Month: 
+####**December Month: **
 
 ![image](https://user-images.githubusercontent.com/47649575/137596726-797f61e9-43bd-4e0c-8886-099a5fe7bc8d.png)
 
