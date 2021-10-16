@@ -2,11 +2,11 @@
 ### Overview of the analysis
 The idea for this analysis was to review how the tempertures was for specifed months. 
 Then Provide some basic information about the month such as:
--Count
--Mean (Average)
--Standard Deviation
--Minimum
--Max
+- Count
+- Mean (Average)
+- Standard Deviation
+- Minimum
+- Max
 
 ### Results
 
